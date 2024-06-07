@@ -1,3 +1,10 @@
+Harry Potter -> https://github.com/flohtux/kata-java/blob/master/HarryPotter.md
+
+
+
+
+
+
 # Java JUnit5
 
 A minimal setup with Java, [JUnit5](https://junit.org/junit5/), [AssertJ](https://assertj.github.io/doc/) and [Mockito](https://site.mockito.org/) to get you started.
